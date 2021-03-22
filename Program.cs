@@ -66,27 +66,3 @@ namespace ManipulandoStrings
         }
     }
 }
-
-// const string frase = "LuisDev é um blog do Luis Felipe";
-
-            // var luisIndexOf = frase.IndexOf("Luis");
-            // var blogIndexOf = frase.IndexOf("blog");
-            // var luisLastIndexOf = frase.LastIndexOf("Luis");
-            // var luisStartsWith = frase.StartsWith("Luis");
-            // var blogSubstring = frase.Substring(blogIndexOf, 4);
-
-            // Console.WriteLine($"Índice de primeira ocorrência de Luis: {luisIndexOf}");
-            // Console.WriteLine($"Índice de primeira ocorrência de blog: {blogIndexOf}");
-            // Console.WriteLine($"Índice de última ocorrência de Luis: {luisLastIndexOf}");
-            // Console.WriteLine($"String começa com Luis: {luisStartsWith}");
-            // Console.WriteLine($"Substring de blog: {blogSubstring}");
-
-// var nomes = new string[] { "Luis", "Francisco", "Leonardo", "Ivan", "Lucas", "Paulo" };
-            // var stringBuilder = new StringBuilder();
-
-            // foreach (var nome in nomes) {
-            //     stringBuilder.AppendLine($"Seja bem-vindo {nome}");
-            // }
-
-            // Console.WriteLine(stringBuilder);
-            
